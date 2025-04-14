@@ -1,6 +1,0 @@
-Master sequence for pbra - dnaQ_cluster: cluster1 (11 copies)
-Master sequence for pbra - mutL_cluster: cluster1 (16 copies)
-Master sequence for pbra - mutS_cluster: cluster1 (17 copies)
-Master sequence for pbra - mutT_cluster: cluster1 (17 copies)
-Master sequence for pbra - mutY_cluster: cluster1 (17 copies)
-Master sequence for pbra - uvrD_cluster: cluster1 (16 copies)

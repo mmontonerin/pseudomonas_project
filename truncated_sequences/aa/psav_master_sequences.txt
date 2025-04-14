@@ -1,6 +1,0 @@
-Master sequence for psav - dnaQ_cluster: cluster1 (36 copies)
-Master sequence for psav - mutL_cluster: cluster1 (32 copies)
-Master sequence for psav - mutS_cluster: cluster2 (16 copies)
-Master sequence for psav - mutT_cluster: cluster2 (31 copies)
-Master sequence for psav - mutY_cluster: cluster1 (26 copies)
-Master sequence for psav - uvrD_cluster: cluster1 (16 copies)
