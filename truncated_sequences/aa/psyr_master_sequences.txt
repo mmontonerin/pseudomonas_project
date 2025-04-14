@@ -1,0 +1,6 @@
+Master sequence for psyr - dnaQ_cluster: cluster18 (100 copies)
+Master sequence for psyr - mutL_cluster: cluster5 (69 copies)
+Master sequence for psyr - mutS_cluster: cluster8 (67 copies)
+Master sequence for psyr - mutT_cluster: cluster8 (65 copies)
+Master sequence for psyr - mutY_cluster: cluster19 (68 copies)
+Master sequence for psyr - uvrD_cluster: cluster6 (137 copies)

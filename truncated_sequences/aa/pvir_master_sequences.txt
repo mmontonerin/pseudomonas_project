@@ -1,0 +1,6 @@
+Master sequence for pvir - dnaQ_cluster: cluster3 (97 copies)
+Master sequence for pvir - mutL_cluster: cluster4 (39 copies)
+Master sequence for pvir - mutS_cluster: cluster15 (25 copies)
+Master sequence for pvir - mutT_cluster: cluster1 (21 copies)
+Master sequence for pvir - mutY_cluster: cluster1 (67 copies)
+Master sequence for pvir - uvrD_cluster: cluster3 (103 copies)

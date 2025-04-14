@@ -1,0 +1,4 @@
+1 /home/montoliu/pprotegens/01_select_assemblies/scripts/genome_annotation/batch_scripts/prokka_commands_batch_2.sh
+2 /home/montoliu/pprotegens/01_select_assemblies/scripts/genome_annotation/batch_scripts/prokka_commands_batch_3.sh
+3 /home/montoliu/pprotegens/01_select_assemblies/scripts/genome_annotation/batch_scripts/prokka_commands_batch_1.sh
+4 /home/montoliu/pprotegens/01_select_assemblies/scripts/genome_annotation/batch_scripts/prokka_commands_batch_4.sh

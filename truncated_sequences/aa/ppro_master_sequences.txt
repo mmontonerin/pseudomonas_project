@@ -1,0 +1,6 @@
+Master sequence for ppro - dnaQ_cluster: cluster2 (30 copies)
+Master sequence for ppro - mutL_cluster: cluster1 (21 copies)
+Master sequence for ppro - mutS_cluster: cluster1 (28 copies)
+Master sequence for ppro - mutT_cluster: cluster1 (31 copies)
+Master sequence for ppro - mutY_cluster: cluster5 (22 copies)
+Master sequence for ppro - uvrD_cluster: cluster1 (49 copies)
