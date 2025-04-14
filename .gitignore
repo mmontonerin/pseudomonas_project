@@ -86,6 +86,8 @@ pprotegens/mut_genes/protein_analysis/mut_sequences/
 pprotegens/mut_genes/protein_analysis/*csv
 pprotegens/mut_genes/protein_analysis/*out
 pprotegens/mut_genes/protein_analysis/*txt
+pprotegens/01_select_assemblies/scripts/busco_4024985653.log
+
 
 psyringae_group/data/
 psyringae_group/mut_genes/alignments/
