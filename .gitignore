@@ -7,11 +7,18 @@
 40sp/blast_results/
 40sp/ncbi-data/
 40sp/*out
+40sp/*txt
 40sp/mut_sequences/alignments/
 40sp/phylogeny/alignments/
 40sp/phylogeny/headers_renamed/
 40sp/phylogeny/*out
 40sp/phylogeny/40sp*
+40sp/dnaq_updated_alignment.fasta
+40sp/identity_analyses/*.fasta
+40sp/identity_analyses/*png
+40sp/identity_analyses/*svg
+40sp/mut_genes_ecoli/
+40sp/mut_sequences/
 
 other_species/data/busco/
 other_species/data/genome_annotation/
@@ -45,6 +52,7 @@ other_species/mut_genes/*out
 other_species/mut_genes/*csv
 other_species/tables/*csv
 other_species/tables/*txt
+other_species/tables/*tsv
 other_species/mut_genes/*tsv
 
 pprotegens/00_sra_data_assembly/
@@ -101,6 +109,7 @@ psyringae_group/mut_genes/protein_analysis/faa_sequences/
 psyringae_group/mut_genes/protein_analysis/faa_renamed/
 psyringae_group/mut_genes/protein_analysis/mut_sequences/
 psyringae_group/mut_genes/protein_analysis/otherfiles/
+psyringae_group/mut_genes/*txt
 psyringae_group/results/
 psyringae_group/scripts/test_blastn_accuracy/
 psyringae_group/scripts/test_from_json/
@@ -114,6 +123,8 @@ psyringae_group/scripts/ncbi_tables_modifications/01_assemblynames
 psyringae_group/scripts/ncbi_tables_modifications/filtered_tables_and_plots/
 psyringae_group/scripts/ncbi_tables_modifications/out_files/
 psyringae_group/scripts/fixes/
+psyringae_group/scripts/ncbi_tables_modifications/filenames
+psyringae_group/scripts/.03.2_blast_parse_extra_bp.sh.swp
 psyringae_group/scripts_v2/*out
 psyringae_group/scripts_v2/*fasta
 psyringae_group/scripts_v2/extract_scripts/
@@ -148,9 +159,9 @@ truncated_sequences/aa/ppro/
 truncated_sequences/aa/psav/
 truncated_sequences/aa/psyr/
 truncated_sequences/aa/pvir/
-truncated_sequences/*txt
-truncated_sequences/*out
-truncated_sequences/*csv
+truncated_sequences/aa/*txt
+truncated_sequences/aa/*out
+truncated_sequences/aa/*csv
 
 mut_phylogenies/07_sptree_visualization_mutT.py
 mut_phylogenies/data/
